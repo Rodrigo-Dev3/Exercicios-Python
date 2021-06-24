@@ -1,2 +1,2 @@
-# Exercicios Python
- Repositório em que estão armazenados diversos exercícios na Linguagem Python
+# Exercícios em Python
+ Repositório com diversos exercícios na Linguagem Python resolvidos.
